@@ -1,0 +1,45 @@
+html {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+header {
+    background-color: blueviolet;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+nav a {
+    color:blanchedalmond;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+nav a:hover {
+    color:palevioletred;
+}
+
+footer {
+    background-color: brown;
+    color:white;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.container {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+img{
+    midth: 200px;
+    height: 200px;
+
+}
